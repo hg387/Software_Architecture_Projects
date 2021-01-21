@@ -2,6 +2,7 @@ README for SE311-Hw2
 
 TASK: Implement KWC indexing of lines using Pipe and Filter Architecture.A KWIC index is formed by sorting and aligning the words within an article title to allow each word (except the stop words) in titles to be searchable alphabetically in the index.[3] It was a useful indexing method for technical manuals before computerized full text search became common.
 
+<br/>Pipe & Filter Arch: Decompose a task that performs complex processing into a series of separate elements that can be reused. This can improve performance, scalability, and reusability by allowing task elements that perform the processing to be deployed and scaled independently.
 <br/>1) Main class acts as Client and class to run the program.
 <br/>2) test1.txt and test2.txt are the example for testing.
 <br/>3) UML.png contains the UML diagram for this homework.
