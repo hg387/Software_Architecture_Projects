@@ -62,15 +62,15 @@ test1.txt
 p
 <br/>Here is the Output:
 
-and Sensibility Sense
-Architecture Software
-Crouching Tiger Hidden Dragon
-Dragon Crouching Tiger Hidden
-Hidden Dragon Crouching Tiger
-Sense and Sensibility
-Sensibility Sense and
-Software Architecture
-Tiger Hidden Dragon Crouching
+and Sensibility Sense<br/>
+Architecture Software<br/>
+Crouching Tiger Hidden Dragon<br/>
+Dragon Crouching Tiger Hidden<br/>
+Hidden Dragon Crouching Tiger<br/>
+Sense and Sensibility<br/>
+Sensibility Sense and<br/>
+Software Architecture<br/>
+Tiger Hidden Dragon Crouching<br/>
 
 <br/>Add, Delete, Print, Quit:
 a
@@ -81,20 +81,20 @@ a
 p
 Here is the Output:
 
-and Sensibility Sense
-Architecture Software
-Crouching Tiger Hidden Dragon
-Dragon Crouching Tiger Hidden
-god What is gooder than
-gooder than god What is
-Hidden Dragon Crouching Tiger
-is gooder than god What
-Sense and Sensibility
-Sensibility Sense and
-Software Architecture
-than god What is gooder
-Tiger Hidden Dragon Crouching
-What is gooder than god
+and Sensibility Sense<br/>
+Architecture Software<br/>
+Crouching Tiger Hidden Dragon<br/>
+Dragon Crouching Tiger Hidden<br/>
+god What is gooder than<br/>
+gooder than god What is<br/>
+Hidden Dragon Crouching Tiger<br/>
+is gooder than god What<br/>
+Sense and Sensibility<br/>
+Sensibility Sense and<br/>
+Software Architecture<br/>
+than god What is gooder<br/>
+Tiger Hidden Dragon Crouching<br/>
+What is gooder than god<br/>
 
 <br/>Add, Delete, Print, Quit:
 q
@@ -137,24 +137,24 @@ the poor have it
 p
 <br/>Here is the Output:
 
-devil more evil than the
-evil than the devil more
-god What is gooder than
-gooder than god What is
-have it the poor
-is gooder than god What
-it the poor have
-it the rich need
-more evil than the devil
-need it the rich
-poor have it the
-rich need it the
-than god What is gooder
-than the devil more evil
-the devil more evil than
-the poor have it
-the rich need it
-What is gooder than god
+devil more evil than the<br/>
+evil than the devil more<br/>
+god What is gooder than<br/>
+gooder than god What is<br/>
+have it the poor<br/>
+is gooder than god What<br/>
+it the poor have<br/>
+it the rich need<br/>
+more evil than the devil<br/>
+need it the rich<br/>
+poor have it the<br/>
+rich need it the<br/>
+than god What is gooder<br/>
+than the devil more evil<br/>
+the devil more evil than<br/>
+the poor have it<br/>
+the rich need it<br/>
+What is gooder than god<br/>
 <br/>
 Add, Delete, Print, Quit:
 a
