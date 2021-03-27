@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>FileCountVisitor</OriginalElement>
+  <nodes>
+    <node x="298.75" y="336.0">Visitor</node>
+    <node x="40.0" y="570.0">FileSystemVisitor</node>
+    <node x="466.7954493087558" y="570.0">EarliestFileVisitor</node>
+    <node x="317.9166666666667" y="0.0">Component</node>
+    <node x="131.58333333333331" y="168.0">Folder</node>
+    <node x="239.0" y="570.0">FileCountVisitor</node>
+    <node x="164.32795698924738" y="746.0">Main</node>
+    <node x="339.0" y="459.0">File</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Component" target="Visitor">
+      <point x="16.41666666666663" y="59.0" />
+      <point x="432.8333333333333" y="148.0" />
+      <point x="447.0833333333333" y="148.0" />
+      <point x="59.333333333333314" y="-36.5" />
+    </edge>
+    <edge source="EarliestFileVisitor" target="Component">
+      <point x="73.87499999999997" y="-48.0" />
+      <point x="639.1704493087557" y="540.0" />
+      <point x="592.1064324116744" y="540.0" />
+      <point x="592.1064324116744" y="148.0" />
+      <point x="498.50000000000006" y="148.0" />
+      <point x="82.08333333333339" y="59.0" />
+    </edge>
+    <edge source="EarliestFileVisitor" target="File">
+      <point x="-73.875" y="-48.0" />
+      <point x="491.4204493087558" y="550.0" />
+      <point x="516.3000000000001" y="550.0" />
+      <point x="78.80000000000007" y="25.5" />
+    </edge>
+    <edge source="Main" target="FileCountVisitor">
+      <point x="15.799999999999955" y="-80.5" />
+      <point x="338.1279569892473" y="686.0" />
+      <point x="372.5" y="686.0" />
+      <point x="44.5" y="48.0" />
+    </edge>
+    <edge source="FileCountVisitor" target="Folder">
+      <point x="-59.33333333333337" y="-48.0" />
+      <point x="268.66666666666663" y="530.0" />
+      <point x="277.0450076804916" y="530.0" />
+      <point x="277.0450076804916" y="316.0" />
+      <point x="284.0833333333333" y="316.0" />
+      <point x="0.0" y="59.0" />
+    </edge>
+    <edge source="File" target="Visitor">
+      <point x="-65.66666666666669" y="-25.5" />
+      <point x="371.8333333333333" y="439.0" />
+      <point x="387.75" y="439.0" />
+      <point x="0.0" y="36.5" />
+    </edge>
+    <edge source="FileSystemVisitor" target="File">
+      <point x="59.33333333333337" y="-48.0" />
+      <point x="188.33333333333337" y="550.0" />
+      <point x="358.7" y="550.0" />
+      <point x="-78.80000000000001" y="25.5" />
+    </edge>
+    <edge source="EarliestFileVisitor" target="Visitor">
+      <point x="-24.625" y="-48.0" />
+      <point x="540.6704493087558" y="550.0" />
+      <point x="570.1064324116744" y="550.0" />
+      <point x="570.1064324116744" y="429.0" />
+      <point x="458.95" y="429.0" />
+      <point x="71.19999999999999" y="36.5" />
+    </edge>
+    <edge source="Main" target="EarliestFileVisitor">
+      <point x="110.60000000000002" y="-80.5" />
+      <point x="432.9279569892474" y="716.0" />
+      <point x="516.0454493087558" y="716.0" />
+      <point x="-49.25" y="48.0" />
+    </edge>
+    <edge source="Folder" target="Visitor">
+      <point x="87.14285714285722" y="59.0" />
+      <point x="371.22619047619054" y="316.0" />
+      <point x="387.74999999999994" y="316.0" />
+      <point x="-5.6843418860808015E-14" y="-36.5" />
+    </edge>
+    <edge source="Main" target="FileSystemVisitor">
+      <point x="-79.00000000000006" y="-80.5" />
+      <point x="243.32795698924733" y="706.0" />
+      <point x="173.5" y="706.0" />
+      <point x="44.5" y="48.0" />
+    </edge>
+    <edge source="FileCountVisitor" target="Visitor">
+      <point x="0.0" y="-48.0" />
+      <point x="328.0" y="540.0" />
+      <point x="309.3333333333333" y="540.0" />
+      <point x="309.3333333333333" y="439.0" />
+      <point x="352.15" y="439.0" />
+      <point x="-35.60000000000002" y="36.5" />
+    </edge>
+    <edge source="File" target="Component">
+      <point x="65.66666666666667" y="-25.5" />
+      <point x="503.1666666666667" y="439.0" />
+      <point x="487.25" y="439.0" />
+      <point x="487.25" y="148.0" />
+      <point x="465.6666666666667" y="148.0" />
+      <point x="49.25" y="59.0" />
+    </edge>
+    <edge source="FileSystemVisitor" target="Visitor">
+      <point x="0.0" y="-48.0" />
+      <point x="129.0" y="540.0" />
+      <point x="297.3397657450077" y="540.0" />
+      <point x="297.3397657450077" y="429.0" />
+      <point x="316.55" y="429.0" />
+      <point x="-71.19999999999999" y="36.5" />
+    </edge>
+    <edge source="Folder" target="Component">
+      <point x="0.0" y="-59.0" />
+      <point x="284.0833333333333" y="148.0" />
+      <point x="367.1666666666667" y="148.0" />
+      <point x="-49.25" y="59.0" />
+    </edge>
+    <edge source="Main" target="File">
+      <point x="47.39999999999998" y="-80.5" />
+      <point x="369.72795698924733" y="696.0" />
+      <point x="438.4829493087558" y="696.0" />
+      <point x="0.0" y="25.5" />
+    </edge>
+    <edge source="EarliestFileVisitor" target="Folder">
+      <point x="24.625" y="-48.0" />
+      <point x="589.9204493087558" y="550.0" />
+      <point x="581.1064324116744" y="550.0" />
+      <point x="581.1064324116744" y="316.0" />
+      <point x="414.7976190476191" y="316.0" />
+      <point x="130.71428571428578" y="59.0" />
+    </edge>
+    <edge source="Visitor" target="Folder">
+      <point x="-59.33333333333343" y="-36.5" />
+      <point x="43.57142857142867" y="59.0" />
+    </edge>
+    <edge source="FileCountVisitor" target="File">
+      <point x="59.333333333333314" y="-48.0" />
+      <point x="387.3333333333333" y="550.0" />
+      <point x="398.1" y="550.0" />
+      <point x="-39.39999999999998" y="25.5" />
+    </edge>
+    <edge source="FileSystemVisitor" target="Folder">
+      <point x="-59.33333333333337" y="-48.0" />
+      <point x="69.66666666666663" y="550.0" />
+      <point x="78.68976574500766" y="550.0" />
+      <point x="78.68976574500766" y="316.0" />
+      <point x="196.9404761904762" y="316.0" />
+      <point x="-87.14285714285711" y="59.0" />
+    </edge>
+    <edge source="Main" target="Folder">
+      <point x="-47.400000000000034" y="-80.5" />
+      <point x="274.9279569892474" y="696.0" />
+      <point x="228.5" y="696.0" />
+      <point x="228.5" y="316.0" />
+      <point x="240.51190476190476" y="316.0" />
+      <point x="-43.571428571428555" y="59.0" />
+    </edge>
+    <edge source="Visitor" target="File">
+      <point x="35.599999999999966" y="36.5" />
+      <point x="423.34999999999997" y="439.0" />
+      <point x="437.5" y="439.0" />
+      <point x="0.0" y="-25.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.8975188781014024" x="332.0" y="453.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
