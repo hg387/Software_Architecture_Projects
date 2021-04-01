@@ -23,11 +23,11 @@ Traditionally used for desktop graphical user interfaces (GUIs), this pattern ha
 <br/>Added Equation: 1+6*2-7=7.0
 
 -<br/>
-| \<br/>
-*  7<br/>
-| \<br/>
-+  2<br/>
-| \<br/>
+<br/>| \
+<br/>*  7
+<br/>| \
+<br/>+  2
+<br/>| \
 <br/>1  6
 <br/>Total Number of Equations :1
 
@@ -35,9 +35,9 @@ Traditionally used for desktop graphical user interfaces (GUIs), this pattern ha
 <br/>Added Equation: 7+3*6=60.0
 
 <br/>*<br/>
-| \<br/>
-+  6<br/>
-| \
+<br/>| \
+<br/>+  6
+<br/>| \
 <br/>7  3
 <br/>Total Number of Equations :2
 
